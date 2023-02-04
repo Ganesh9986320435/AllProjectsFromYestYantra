@@ -1,0 +1,34 @@
+package mcdonaldsprojectjsp;
+
+import java.io.IOException;
+
+import javax.servlet.RequestDispatcher;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import mcdonaldsprojectjsp.dao.UserDao;
+import mcdonaldsprojectjsp.dto.User;
+
+@WebServlet("/signin")
+public class Signin extends HttpServlet{
+	@Override
+	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+		User user=new User();
+		user.setName(req.getParameter("name"));
+		user.setAddress(req.getParameter("address"));
+		user.setEmail(req.getParameter("email"));
+		user.setPass(req.getParameter("pass"));
+		user.setPhone(Long.parseLong(req.getParameter("phone")));
+		user.setRole(req.getParameter("role"));
+		UserDao userDao=new UserDao();
+		User user2=userDao.saveUser(user);
+		if(user2!=null)
+		{
+			RequestDispatcher requestDispatcher=req.getRequestDispatcher("login.jsp");
+			requestDispatcher.forward(req, resp);
+		}
+	}
+}

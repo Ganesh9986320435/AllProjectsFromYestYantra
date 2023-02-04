@@ -1,0 +1,5 @@
+package jspproject2.dto;
+
+public class Employee {
+
+}

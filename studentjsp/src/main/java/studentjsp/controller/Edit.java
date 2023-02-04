@@ -1,0 +1,39 @@
+package studentjsp.controller;
+
+import java.io.IOException;
+import java.util.List;
+
+import javax.servlet.RequestDispatcher;
+import javax.servlet.ServletContext;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import studentjsp.dao.StudentDao;
+import studentjsp.dto.Student;
+
+@WebServlet("/edit")
+public class Edit extends HttpServlet{
+	@Override
+	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+		Student student=new Student();
+		student.setName(req.getParameter("name"));
+		student.setFname(req.getParameter("fname"));
+		student.setPhone(Long.parseLong(req.getParameter("phone")));
+		student.setEmail(req.getParameter("email"));
+		student.setPass(req.getParameter("pass"));
+		ServletContext context=getServletContext();
+		double fees= Double.parseDouble( context.getInitParameter("fees"));
+		student.setFees(fees);
+		StudentDao studentDao=new StudentDao();
+		boolean b=studentDao.Edit(student);
+		if(b) {
+			List<Student> list=studentDao.getList();
+			req.setAttribute("list", list);
+			RequestDispatcher requestDispatcher=req.getRequestDispatcher("display.jsp");
+			requestDispatcher.forward(req, resp);
+		}
+	}
+}

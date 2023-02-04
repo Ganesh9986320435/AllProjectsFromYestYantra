@@ -1,0 +1,20 @@
+<%@page import="jspproject2.dto.Employee"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<%Employee employee=(Employee)request.getAttribute("employee"); %>
+<form action="edit">
+Id:<input type="number" name="id" value="<%=employee.getId() %>">
+name:<input type="text" name="name">
+adress:<input type="text" name="address">
+email:<input type="email" name="email">
+password:<input type="text" name="password">
+<input type="submit">
+</body>
+</html>

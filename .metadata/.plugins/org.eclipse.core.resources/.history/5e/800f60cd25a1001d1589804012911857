@@ -1,0 +1,7 @@
+package jspproject2.controller;
+
+import javax.servlet.http.HttpServlet;
+2
+public class DeleteEmployee extends HttpServlett{
+
+}

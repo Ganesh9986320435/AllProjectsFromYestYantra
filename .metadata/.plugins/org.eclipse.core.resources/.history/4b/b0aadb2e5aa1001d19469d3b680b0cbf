@@ -1,0 +1,5 @@
+package mcdonaldsprojectjsp.dto;
+
+public class Items {
+
+}

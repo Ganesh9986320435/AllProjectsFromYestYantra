@@ -1,0 +1,12 @@
+import java.util.Comparator;
+
+public class Id implements Comparator{
+
+	@Override
+	public int compareTo(Object o) {
+		Employee employee=(Employee)o;
+		
+		return employee.;
+	}
+
+}

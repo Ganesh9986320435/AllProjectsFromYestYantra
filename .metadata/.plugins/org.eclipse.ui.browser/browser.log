@@ -1,0 +1,181 @@
+
+Jan 24, 2023 15:38:55.403 NEW SESSION
+Jan 24, 2023 15:38:55.403 [15944:16584:0124/153855.401:ERROR:device_event_log_impl.cc(215)] [15:38:55.400] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 24, 2023 15:39:52.297 [15944:15432:0124/153952.296:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jan 24, 2023 15:47:27.480 [10364:364:0124/154727.480:ERROR:device_event_log_impl.cc(215)] [15:47:27.480] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 24, 2023 15:48:24.381 [10364:16320:0124/154824.380:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Jan 24, 2023 16:29:59.71 NEW SESSION
+Jan 24, 2023 16:29:59.71 [17324:10276:0124/162959.069:ERROR:device_event_log_impl.cc(215)] [16:29:59.069] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 24, 2023 16:30:55.906 [17324:15348:0124/163055.905:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jan 24, 2023 17:10:27.931 [17324:10276:0124/171027.931:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+Jan 25, 2023 10:59:02.541 NEW SESSION
+Jan 25, 2023 10:59:02.542 [2828:3044:0125/105902.538:ERROR:device_event_log_impl.cc(215)] [10:59:02.538] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 25, 2023 10:59:59.407 [2828:13992:0125/105959.405:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jan 25, 2023 11:10:49.713 [18156:4372:0125/111049.713:ERROR:device_event_log_impl.cc(215)] [11:10:49.713] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 25, 2023 11:11:03.233 [12968:2408:0125/111103.232:ERROR:device_event_log_impl.cc(215)] [11:11:03.231] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 25, 2023 11:17:16.981 [12968:5984:0125/111716.977:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jan 25, 2023 11:53:03.995 [12968:2408:0125/115303.994:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+Jan 25, 2023 11:56:20.768 [12968:2408:0125/115620.767:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 11:56:21.89 [12968:2408:0125/115621.089:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 11:56:21.199 [12968:2408:0125/115621.198:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 11:56:21.411 [12968:2408:0125/115621.411:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 11:56:21.514 [12968:2408:0125/115621.513:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 11:56:21.625 [12968:2408:0125/115621.624:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 11:56:21.738 [12968:2408:0125/115621.738:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 11:56:21.857 [12968:2408:0125/115621.857:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 11:56:21.972 [12968:2408:0125/115621.971:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 11:56:22.82 [12968:2408:0125/115622.082:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 11:56:22.207 [12968:2408:0125/115622.206:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 11:56:22.322 [12968:2408:0125/115622.321:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 11:56:22.441 [12968:2408:0125/115622.440:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 11:56:22.555 [12968:2408:0125/115622.554:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 11:56:22.679 [12968:2408:0125/115622.679:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 11:56:22.789 [12968:2408:0125/115622.789:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 11:56:22.906 [12968:2408:0125/115622.905:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 11:56:23.22 [12968:2408:0125/115623.022:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 11:56:23.139 [12968:2408:0125/115623.139:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 11:56:23.535 [12968:2408:0125/115623.534:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 11:56:23.942 [12968:2408:0125/115623.941:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 11:56:24.108 [12968:2408:0125/115624.107:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 11:56:24.221 [12968:2408:0125/115624.219:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 11:56:25.26 [12968:2408:0125/115625.025:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 11:58:01.341 [12968:2408:0125/115801.340:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 11:58:04.514 [12968:2408:0125/115804.512:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 11:58:04.824 [12968:2408:0125/115804.823:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 11:58:11.348 [12968:2408:0125/115811.346:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 12:01:38.300 [12968:2408:0125/120138.298:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 12:02:54.710 [12968:2408:0125/120254.709:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+Jan 25, 2023 12:04:47.321 [12968:2408:0125/120447.319:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 12:08:25.08 [12968:2408:0125/120825.007:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 12:14:03.600 [12968:2408:0125/121403.596:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 12:14:05.434 [12968:2408:0125/121405.433:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 12:14:05.613 [12968:2408:0125/121405.613:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 12:15:48.370 [12968:2408:0125/121548.368:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 12:15:53.04 [12968:2408:0125/121553.003:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 12:15:53.524 [12968:2408:0125/121553.522:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 12:15:54.506 [12968:2408:0125/121554.504:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 12:15:55.941 [12968:2408:0125/121555.939:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 12:15:56.265 [12968:2408:0125/121556.264:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 12:15:56.421 [12968:2408:0125/121556.419:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 12:15:57.303 [12968:2408:0125/121557.302:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 12:15:57.484 [12968:2408:0125/121557.483:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 12:15:57.956 [12968:2408:0125/121557.955:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 12:15:58.424 [12968:2408:0125/121558.422:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 12:15:58.721 [12968:2408:0125/121558.719:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 12:15:58.844 [12968:2408:0125/121558.843:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 12:15:59.467 [12968:2408:0125/121559.465:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 12:15:59.857 [12968:2408:0125/121559.855:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 12:16:00.137 [12968:2408:0125/121600.136:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 12:17:40.600 [12968:2408:0125/121740.599:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 12:21:05.231 [12968:2408:0125/122105.230:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 12:23:32.848 [12968:2408:0125/122332.846:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 12:23:33.439 [12968:2408:0125/122333.438:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 12:23:35.704 [12968:2408:0125/122335.703:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 12:23:37.130 [12968:2408:0125/122337.129:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 12:24:56.193 [12968:2408:0125/122456.192:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 12:26:36.445 [12968:2408:0125/122636.444:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 12:28:18.341 [12968:2408:0125/122818.340:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 12:28:44.449 [12968:2408:0125/122844.448:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 12:30:24.476 [12968:2408:0125/123024.475:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 12:33:47.318 [12968:2408:0125/123347.317:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 12:37:13.281 [12968:2408:0125/123713.280:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 12:42:17.901 [12968:2408:0125/124217.899:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 12:45:43.241 [12968:2408:0125/124543.240:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 12:49:08.231 [12968:2408:0125/124908.229:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 12:54:12.322 [12968:2408:0125/125412.320:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 12:57:37.561 [12968:2408:0125/125737.560:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+Jan 25, 2023 13:01:02.470 [12968:2408:0125/130102.469:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 3.571 s for activation_start 1.48884 s
+
+Jan 25, 2023 14:15:28.747 NEW SESSION
+Jan 25, 2023 14:15:28.747 [9400:7280:0125/141528.744:ERROR:device_event_log_impl.cc(215)] [14:15:28.744] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 25, 2023 14:16:23.827 [9400:1184:0125/141623.825:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jan 25, 2023 14:53:04.334 [2116:10704:0125/145304.334:ERROR:device_event_log_impl.cc(215)] [14:53:04.334] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 25, 2023 14:54:01.457 [2116:6148:0125/145401.456:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jan 25, 2023 15:20:56.508 [2116:10704:0125/152056.507:ERROR:device_event_log_impl.cc(215)] [15:20:56.506] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Jan 26, 2023 21:40:20.517 NEW SESSION
+Jan 26, 2023 21:40:20.517 [5608:14016:0126/214020.514:ERROR:device_event_log_impl.cc(215)] [21:40:20.514] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 26, 2023 21:41:17.496 [5608:13104:0126/214117.495:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Jan 27, 2023 11:54:07.578 NEW SESSION
+Jan 27, 2023 11:54:07.578 [7296:11484:0127/115407.575:ERROR:device_event_log_impl.cc(215)] [11:54:07.576] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 27, 2023 11:55:05.115 [7296:18084:0127/115505.113:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jan 27, 2023 12:11:19.712 [7296:11484:0127/121119.711:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+Jan 27, 2023 12:41:30.633 [7296:11484:0127/124130.631:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+Jan 27, 2023 12:41:33.914 [7296:11484:0127/124133.913:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+Jan 27, 2023 15:43:32.563 NEW SESSION
+Jan 27, 2023 15:43:32.563 [4576:13688:0127/154332.560:ERROR:device_event_log_impl.cc(215)] [15:43:32.559] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 27, 2023 15:44:29.633 [4576:18348:0127/154429.632:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Jan 27, 2023 17:15:37.935 NEW SESSION
+Jan 27, 2023 17:15:37.935 [13284:18288:0127/171537.932:ERROR:device_event_log_impl.cc(215)] [17:15:37.933] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 27, 2023 17:16:35.409 [13284:5572:0127/171635.408:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Jan 30, 2023 12:49:48.466 NEW SESSION
+Jan 30, 2023 12:49:48.466 [11100:17492:0130/124948.463:ERROR:device_event_log_impl.cc(215)] [12:49:48.463] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 30, 2023 12:50:45.485 [11100:17192:0130/125045.484:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jan 30, 2023 13:07:32.725 [11100:17492:0130/130732.724:ERROR:interface_endpoint_client.cc(695)] Message 5 rejected by interface blink.mojom.WidgetHost
+
+Jan 30, 2023 14:56:59.116 NEW SESSION
+Jan 30, 2023 14:56:59.116 [10456:13868:0130/145659.114:ERROR:device_event_log_impl.cc(215)] [14:56:59.114] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 30, 2023 14:57:56.15 [10456:10048:0130/145756.014:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jan 30, 2023 15:31:11.26 [14824:13640:0130/153111.026:ERROR:device_event_log_impl.cc(215)] [15:31:11.025] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 30, 2023 15:58:13.249 [5904:12012:0130/155813.249:ERROR:device_event_log_impl.cc(215)] [15:58:13.249] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 30, 2023 15:59:10.623 [5904:10396:0130/155910.622:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jan 30, 2023 16:02:46.900 [10988:19056:0130/160246.900:ERROR:device_event_log_impl.cc(215)] [16:02:46.900] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 30, 2023 16:03:44.481 [10988:1940:0130/160344.480:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Jan 30, 2023 17:16:30.532 NEW SESSION
+Jan 30, 2023 17:16:30.532 [4972:8540:0130/171630.530:ERROR:device_event_log_impl.cc(215)] [17:16:30.529] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 30, 2023 17:17:24.132 [4972:11312:0130/171724.131:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jan 30, 2023 17:59:30.551 [17120:5852:0130/175930.551:ERROR:device_event_log_impl.cc(215)] [17:59:30.551] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 30, 2023 18:00:27.614 [17120:1652:0130/180027.613:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Jan 31, 2023 09:58:27.747 NEW SESSION
+Jan 31, 2023 09:58:27.747 [18824:17544:0131/095827.745:ERROR:device_event_log_impl.cc(215)] [09:58:27.746] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 31, 2023 09:59:25.313 [18824:15496:0131/095925.312:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jan 31, 2023 12:17:47.416 [17812:18308:0131/121747.416:ERROR:device_event_log_impl.cc(215)] [12:17:47.415] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 31, 2023 12:18:44.860 [17812:14484:0131/121844.859:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jan 31, 2023 12:36:57.184 [12384:17624:0131/123657.184:ERROR:device_event_log_impl.cc(215)] [12:36:57.184] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Jan 31, 2023 14:06:19.991 NEW SESSION
+Jan 31, 2023 14:06:19.992 [12560:10952:0131/140619.989:ERROR:device_event_log_impl.cc(215)] [14:06:19.988] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 31, 2023 14:07:14.540 [12560:5720:0131/140714.539:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jan 31, 2023 14:43:34.168 [10808:9104:0131/144334.168:ERROR:device_event_log_impl.cc(215)] [14:43:34.168] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 31, 2023 14:44:30.990 [10808:15084:0131/144430.989:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jan 31, 2023 15:32:08.486 [10808:9104:0131/153208.486:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+Jan 31, 2023 16:10:12.121 [10084:12588:0131/161012.121:ERROR:device_event_log_impl.cc(215)] [16:10:12.121] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 31, 2023 16:11:06.572 [10084:15708:0131/161106.570:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Jan 31, 2023 21:39:57.885 NEW SESSION
+Jan 31, 2023 21:39:57.885 [15908:4060:0131/213957.883:ERROR:device_event_log_impl.cc(215)] [21:39:57.882] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 31, 2023 21:40:54.762 [15908:19328:0131/214054.761:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Feb 01, 2023 11:35:33.624 NEW SESSION
+Feb 01, 2023 11:35:33.625 [18308:11032:0201/113533.618:ERROR:device_event_log_impl.cc(215)] [11:35:33.618] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 01, 2023 11:36:28.741 [18308:8812:0201/113628.740:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 01, 2023 11:42:50.587 [9344:3844:0201/114250.586:ERROR:device_event_log_impl.cc(215)] [11:42:50.587] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 01, 2023 11:44:13.327 [2760:17384:0201/114413.326:ERROR:device_event_log_impl.cc(215)] [11:44:13.326] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 01, 2023 11:44:22.786 [2760:17384:0201/114422.786:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+Feb 01, 2023 14:31:26.369 NEW SESSION
+Feb 01, 2023 14:31:26.370 [15144:4812:0201/143126.368:ERROR:device_event_log_impl.cc(215)] [14:31:26.368] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 01, 2023 14:32:20.747 [15144:9980:0201/143220.746:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 01, 2023 14:52:49.416 [16388:15648:0201/145249.415:ERROR:device_event_log_impl.cc(215)] [14:52:49.416] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 01, 2023 14:53:47.05 [16388:13664:0201/145347.004:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 01, 2023 15:00:05.830 [11440:13228:0201/150005.829:ERROR:device_event_log_impl.cc(215)] [15:00:05.830] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 01, 2023 15:01:03.347 [11440:2508:0201/150103.347:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Feb 01, 2023 21:18:53.52 NEW SESSION
+Feb 01, 2023 21:18:53.52 [9372:1620:0201/211853.050:ERROR:device_event_log_impl.cc(215)] [21:18:53.050] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 01, 2023 21:19:48.246 [9372:16540:0201/211948.245:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 01, 2023 21:27:12.470 [7140:19424:0201/212712.469:ERROR:device_event_log_impl.cc(215)] [21:27:12.470] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 01, 2023 21:28:10.418 [7140:5928:0201/212810.417:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 01, 2023 23:14:19.177 [7140:19424:0201/231419.176:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+Feb 04, 2023 21:52:02.118 NEW SESSION
+Feb 04, 2023 21:52:02.119 [7172:3872:0204/215202.115:ERROR:device_event_log_impl.cc(215)] [21:52:02.116] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 04, 2023 21:52:59.71 [7172:4592:0204/215259.070:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater

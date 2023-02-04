@@ -1,0 +1,12 @@
+127.0.0.1 - - [04/Feb/2023:21:51:58 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [04/Feb/2023:21:52:00 +0530] "GET /com.ty.jsp_application_eb8_prc/home.jsp HTTP/1.1" 200 291
+0:0:0:0:0:0:0:1 - - [04/Feb/2023:21:52:00 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [04/Feb/2023:21:52:02 +0530] "GET /com.ty.jsp_application_eb8_prc/signup.jsp HTTP/1.1" 200 1175
+0:0:0:0:0:0:0:1 - - [04/Feb/2023:21:52:34 +0530] "POST /com.ty.jsp_application_eb8_prc/signup HTTP/1.1" 200 327
+0:0:0:0:0:0:0:1 - - [04/Feb/2023:21:52:36 +0530] "GET /com.ty.jsp_application_eb8_prc/home.jsp HTTP/1.1" 200 291
+0:0:0:0:0:0:0:1 - - [04/Feb/2023:21:52:37 +0530] "GET /com.ty.jsp_application_eb8_prc/signup.jsp HTTP/1.1" 200 1175
+0:0:0:0:0:0:0:1 - - [04/Feb/2023:21:53:05 +0530] "POST /com.ty.jsp_application_eb8_prc/signup HTTP/1.1" 200 327
+0:0:0:0:0:0:0:1 - - [04/Feb/2023:21:53:07 +0530] "GET /com.ty.jsp_application_eb8_prc/home.jsp HTTP/1.1" 200 291
+0:0:0:0:0:0:0:1 - - [04/Feb/2023:21:53:08 +0530] "GET /com.ty.jsp_application_eb8_prc/signup.jsp HTTP/1.1" 200 1175
+0:0:0:0:0:0:0:1 - - [04/Feb/2023:21:53:36 +0530] "POST /com.ty.jsp_application_eb8_prc/signup HTTP/1.1" 200 327
+0:0:0:0:0:0:0:1 - - [04/Feb/2023:21:53:38 +0530] "GET /com.ty.jsp_application_eb8_prc/login.jsp HTTP/1.1" 200 535

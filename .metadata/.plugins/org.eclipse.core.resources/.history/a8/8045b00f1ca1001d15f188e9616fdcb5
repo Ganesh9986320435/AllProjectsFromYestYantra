@@ -1,0 +1,13 @@
+package checking;
+
+public interface D extends E{
+	
+	p
+	public static void main(String[] args) {
+		D d=new D(){};
+	
+	
+	
+	
+	}
+}

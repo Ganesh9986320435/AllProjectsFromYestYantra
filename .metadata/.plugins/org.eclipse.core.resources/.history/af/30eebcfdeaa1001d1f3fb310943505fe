@@ -1,0 +1,14 @@
+package mcdonaldsprojectjsp.dto;
+
+import javax.persistence.Entity;
+import javax.persistence.Id;
+
+@Entity
+public class FoodOrder {
+@Id
+private int id;
+private String foodname;
+private String email;
+private String address;
+private 
+}

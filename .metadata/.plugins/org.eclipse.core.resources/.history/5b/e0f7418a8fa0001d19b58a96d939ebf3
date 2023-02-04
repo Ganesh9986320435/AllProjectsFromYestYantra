@@ -1,0 +1,9 @@
+package studentjsp.dto;
+
+import javax.persistence.Entity;
+
+@Entity
+public class Student {
+	private String name;
+	
+}

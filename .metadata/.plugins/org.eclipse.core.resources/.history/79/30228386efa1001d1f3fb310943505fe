@@ -1,0 +1,22 @@
+<%@page import="mcdonaldsprojectjsp.dto.Items"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<%Items items=(Items)request.getAttribute("items"); %>
+<form action="items">
+id:<%=items.getItemid() %>
+name:<%=items.getItemname() %>
+desc:<%=items.getItemdesc() %>
+price:<%=items.getItemprice() %>
+offer:<%=items.getItemoffer() %>
+quantity:<input type="number">
+<input type="submit">
+</form>
+</body>
+</html>

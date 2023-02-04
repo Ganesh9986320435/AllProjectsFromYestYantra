@@ -1,0 +1,15 @@
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Set;
+import java.util.TreeSet;
+
+public class Second {
+	public static void main(String[] args) {
+		List list=new ArrayList<>();
+		list.add(1);
+		list.add(2);
+		TreeSet set=new TreeSet<>(list);
+		System.out.println();
+		
+	}
+}

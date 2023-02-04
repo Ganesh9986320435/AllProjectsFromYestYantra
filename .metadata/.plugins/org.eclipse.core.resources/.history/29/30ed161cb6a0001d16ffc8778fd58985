@@ -1,0 +1,17 @@
+package checking;
+
+public interface E {
+//	private void m1()
+//	{
+//		
+//	}
+	default void m1()
+	{
+		System.out.println("hello");
+	}
+	public static void main(String[] args) {
+		E e=new E() {};
+		e.m1();
+	}
+}
+

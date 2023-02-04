@@ -1,0 +1,13 @@
+package mcdonaldsprojectjsp.dto;
+
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+
+@Entity
+public class User {
+	@Id
+	@GeneratedValuest()
+	private int id;
+
+}

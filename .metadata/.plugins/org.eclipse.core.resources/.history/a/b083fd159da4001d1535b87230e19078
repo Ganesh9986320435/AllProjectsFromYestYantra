@@ -1,0 +1,17 @@
+import java.util.Comparator;
+
+public class Id implements Comparator{
+
+	@Override
+	public int compare(Object o1, Object o2) {
+		Employee employee=(Employee)o1;
+		Employee employee2=(Employee)o2;
+		if(employee.name.equals(employee2.name))
+			return 0;
+		else if (employee.name) {
+			
+		}
+	}
+
+
+}

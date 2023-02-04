@@ -1,0 +1,8 @@
+package jspproject1;
+
+import javax.servlet.annotation.WebServlet;
+
+@WebServlet(/first)
+public class First {
+
+}

@@ -1,0 +1,8 @@
+package studentjsp.controller;
+
+import javax.servlet.annotation.WebServlet;
+
+@WebServlet("/signin")
+public class Controller {
+
+}

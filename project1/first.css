@@ -1,0 +1,28 @@
+@charset "UTF-8";
+div{
+	border: 3px solid black;
+	height: 650px;
+	margin: 0;
+	
+}
+article{
+	border: 1px solid black;
+	width: 50%;
+	margin-left: 160px;
+	height: 550px;
+	border-radius: 10px;
+}
+input{
+	margin: 15px;
+	margin-left: 50px;
+	width: 100px;
+	height: 40px;
+}
+aside{
+	border: 1px solid black;
+	width: 30%;
+	height: 30px;
+	margin-left: 50px;
+	border-radius: 10px;
+	bor
+}

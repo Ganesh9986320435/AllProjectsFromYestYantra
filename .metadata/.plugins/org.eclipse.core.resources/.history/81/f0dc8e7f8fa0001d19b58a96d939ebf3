@@ -1,0 +1,5 @@
+package studentjsp.dto;
+
+public class Student {
+
+}

@@ -1,0 +1,8 @@
+package jspproject2.controller;
+
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+@WebServlet
+public class Login extends HttpServlet{
+
+}

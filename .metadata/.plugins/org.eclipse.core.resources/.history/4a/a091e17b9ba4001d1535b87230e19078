@@ -1,0 +1,8 @@
+
+public class Employee {
+ int id;
+ String name="gani";
+ public Employee() {
+	// TODO Auto-generated constructor stub
+}
+}
