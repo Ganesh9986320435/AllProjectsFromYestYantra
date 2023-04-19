@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="NewWizardAction">
-		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.m2e.core.wizards.Maven2ProjectWizard"/>
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
-			<item value="org.eclipse.m2e"/>
+			<item value="org.eclipse.emf.codegen.ecore.ui.wizardCategory"/>
+			<item value="org.eclipse.jdt.ui.java"/>
+			<item value="org.eclipse.jst.j2ee.internal"/>
 		</list>
 	</section>
 	<section name="org.eclipse.ui.internal.views.markers.FiltersConfigurationDialog">
@@ -14,9 +16,24 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\Hp\git\springboot_hotel_project11"/>
+			<item value="C:\Users\Hp\Desktop\New folder (2)\springboot_hotel_project121"/>
+			<item value="C:\Users\Hp\eclipse-workspace\spring_hibernate_cart1"/>
+			<item value="C:\Users\Hp\eclipse-workspace\hospital_reg_project1"/>
 			<item value="C:\Users\Hp\eclipse-workspace\com.ty.jsp_application_eb8_prc"/>
 		</list>
 	</section>
 	<section name="BasicNewProjectResourceWizard">
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="619"/>
+		<item key="DIALOG_Y_ORIGIN" value="94"/>
+		<item key="DIALOG_WIDTH" value="700"/>
+		<item key="DIALOG_HEIGHT" value="645"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="611"/>
+		<item key="DIALOG_Y_ORIGIN" value="274"/>
 	</section>
 </section>

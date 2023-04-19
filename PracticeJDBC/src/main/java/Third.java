@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
-import java.util.Properties;
+import java.util.Properties;`
 import com.mysql.cj.jdbc.Driver;
 public class Third {
 	public static void main(String[] args) throws ClassNotFoundException, SQLException, IOException {

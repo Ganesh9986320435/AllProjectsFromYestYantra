@@ -8,13 +8,12 @@ import javax.servlet.ServletException;
 import javax.servlet.ServletRequest;
 import javax.servlet.ServletResponse;
 
-public class Equal extends GenericServlet{
+public class Equal extends GenericServlet {
 
 	@Override
 	public void service(ServletRequest req, ServletResponse res) throws ServletException, IOException {
 		// TODO Auto-generated method stub
-		PrintWriter printWriter=res.getWriter();
-		printWriter.print("<html>"+"<body>"+"<h1>"+"out is hitted successfully"+"</h1>"+"</body>"+"</html>");
+		PrintWriter printWriter = res.getWriter();
+		printWriter.print("<html>" + "<body>" + "<h1>" + "out is hitted successfully" + "</h1>" + "</body>" + "</html>");
 	}
-
 }

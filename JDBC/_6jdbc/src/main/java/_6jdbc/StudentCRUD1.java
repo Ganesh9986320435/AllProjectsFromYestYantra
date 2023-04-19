@@ -13,8 +13,8 @@ public class StudentCRUD1 {
 	public void insertStudent(Student s) throws Exception {
 		Connection connection = getConnection();
 		PreparedStatement preparedStatement = connection.prepareStatement("update student set name=? where id=?");
-		preparedStatement.setInt(1, s.getId());
-		preparedStatement.setString(2, s.getName());
+		preparedStatement.setInt(2, s.getId());
+		preparedStatement.setString(1, s.getName());
 		preparedStatement.execute();
 		connection.close();
 		System.out.println("over");

@@ -1,8 +1,0 @@
-package checking;
-
-public interface D {
-	
-	public static void main(String[] args) {
-		E.m1();
-	}
-}

@@ -21,7 +21,8 @@ public class Login extends HttpServlet{
 		 if((personDao.login(email)).equals(pass))
 		 {
 			 RequestDispatcher requestDispatcher=req.getRequestDispatcher("success.html");
-			 requestDispatcher.forward(req, resp);		 }
+			 requestDispatcher.forward(req, resp);	
+		}
 		 else {
 			 RequestDispatcher requestDispatcher=req.getRequestDispatcher("login.html");
 			 requestDispatcher.forward(req, resp);

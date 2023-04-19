@@ -13,8 +13,8 @@ public class Student {
 	private int id;
 	private String name;
 	@ManyToMany
-	@JoinTable(joinColumns = {@JoinColumn(name="id")},inverseJoinColumns = @JoinColumn(name = "c_id"))
-	private List< Course> list;
+	@JoinTable(joinColumns = @JoinColumn(name="id"),inverseJoinColumns = @JoinColumn(name = "c_id"))
+	private List<Course> list;
 	public int getId() {
 		return id;
 	}

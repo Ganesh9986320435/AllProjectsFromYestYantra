@@ -19,6 +19,7 @@ changed by<%=value %>
 <th>address</th>
 <th>email</th>
 <th>password</th>
+<th>image</th>
 <th>delete</th>
 <th>update</th>
 
@@ -38,6 +39,7 @@ changed by<%=value %>
 <td><%=employee.getAddress()%></td>
 <td><%=employee.getEmail()%></td>
 <td><%=employee.getPassword()%></td>
+<td><img alt="<%=employee.getImage() %>" src="image"></td>
 <td><a href="delete?id=<%=employee.getId()%>"><button>delete</button></a></td>
 <td><a href="update?id=<%=employee.getId()%>"><button>update</button></a></td>
 
@@ -57,6 +59,8 @@ changed by<%=value %>
 
 
 
+
 </table>
+<img alt="" src="">
 </body>
 </html>

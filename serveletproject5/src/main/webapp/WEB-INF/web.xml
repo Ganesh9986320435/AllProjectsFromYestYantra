@@ -10,7 +10,7 @@
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>first</servlet-name>
-		<url-pattern>/po</url-pattern>
+		<url-pattern>/lol</url-pattern>
 	</servlet-mapping>
 	<servlet-mapping>
 		<servlet-name>first</servlet-name>

@@ -1,5 +1,5 @@
 
-public class Book {
+public class Book implements Comparable{
 	String name;
 	int id;
 	public Book(String name,
@@ -10,6 +10,12 @@ public class Book {
 	@Override
 	public String toString() {
 		return "Book [name=" + name + ", id=" + id + "]";
+	}
+	@Override
+	public int compareTo(Object arg0) {
+		// TODO Auto-generated method stub
+		Book book=(Book)arg0;
+		return this.name.compareTo(book.name);
 	}
 	
 }

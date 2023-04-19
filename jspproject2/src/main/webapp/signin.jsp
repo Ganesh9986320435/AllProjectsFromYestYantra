@@ -12,7 +12,8 @@ name:<input type="text" name="name">
 adress:<input type="text" name="address">
 email:<input type="email" name="email">
 password:<input type="text" name="password">
-<input type="submit">
+image:<input type="file" name="image">
+<input type="submit" value="upload">
 
 
 

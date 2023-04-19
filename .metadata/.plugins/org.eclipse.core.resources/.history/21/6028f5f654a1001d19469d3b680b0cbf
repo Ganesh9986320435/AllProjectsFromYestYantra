@@ -1,8 +1,0 @@
-package mcdonaldsprojectjsp;
-
-import javax.servlet.annotation.WebServlet;
-
-@WebServlet
-public class Signin {
-
-}

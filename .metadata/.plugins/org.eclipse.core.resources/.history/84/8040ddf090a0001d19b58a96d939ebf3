@@ -1,8 +1,0 @@
-package studentjsp.controller;
-
-import javax.servlet.annotation.WebServlet;
-
-@WebServlet(/)
-public class Controller {
-
-}

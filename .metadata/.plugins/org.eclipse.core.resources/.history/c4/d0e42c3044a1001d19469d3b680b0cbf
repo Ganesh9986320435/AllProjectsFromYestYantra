@@ -1,9 +1,0 @@
-package studentjsp.controller;
-
-import javax.servlet.annotation.WebServlet;
-import javax.servlet.http.HttpServlet;
-
-@WebServlet("/edit")
-public class Edit extends HttpServlet{
-
-}

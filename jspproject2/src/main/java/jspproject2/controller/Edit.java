@@ -1,6 +1,7 @@
 package jspproject2.controller;
 
 import java.io.IOException;
+import java.io.InputStream;
 import java.util.List;
 
 import javax.servlet.RequestDispatcher;
@@ -10,6 +11,7 @@ import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.Part;
 
 import jspproject2.dao.EmployeeDao;
 import jspproject2.dto.Employee;
@@ -23,6 +25,12 @@ public class Edit extends HttpServlet{
 		String address=req.getParameter("address");
 		String email=req.getParameter("email");
 		String password=req.getParameter("password");
+		
+		
+		
+		
+		
+		
 		Employee employee=new Employee();
 		employee.setId(id);
 		employee.setName(name);

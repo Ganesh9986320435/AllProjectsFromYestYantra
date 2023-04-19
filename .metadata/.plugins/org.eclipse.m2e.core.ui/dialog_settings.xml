@@ -2,6 +2,11 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\Hp\eclipse-workspace\serveletpractice\pom.xml"/>
+			<item value="C:\Users\Hp\eclipse-workspace\Springproject4\src\main\java\dto4\Main.java"/>
+			<item value="C:\Users\Hp\eclipse-workspace\Springproject3\src\main\java\dao\Personmain.java"/>
+			<item value="C:\Users\Hp\eclipse-workspace\Springproject1\src\main\java\Controller\Studentmain.java"/>
+			<item value="C:\Users\Hp\eclipse-workspace\PracticingSunday\src\Eight.java"/>
 			<item value="C:\Users\Hp\eclipse-workspace\studentjsp\src\main\webapp\login.jsp"/>
 			<item value="C:\Users\Hp\eclipse-workspace\check"/>
 			<item value="C:\Users\Hp\eclipse-workspace\jdbc-vinodsir\src\ex.java"/>
@@ -12,11 +17,6 @@
 			<item value="C:\Users\Hp\eclipse-workspace\log4j1\src\log4j1\PersonMain.java"/>
 			<item value="C:\Users\Hp\eclipse-workspace\manytoone_uni\src\main\java\manytoone_uni\dao\StudentCrud.java"/>
 			<item value="C:\Users\Hp\eclipse-workspace\onetomany_uni\src\main\java\onetomany_uni\dao\StudentCrud.java"/>
-			<item value="C:\Users\Hp\eclipse-workspace\check\src\main\java\check\Ok.java"/>
-			<item value="C:\Users\Hp\eclipse-workspace\checking\src\checking\C.java"/>
-			<item value="C:\Users\Hp\eclipse-workspace\9-jdbc2\src\main\java\Ramp.java"/>
-			<item value="C:\Users\Hp\eclipse-workspace\7-jdbc\src\main\java\JioDriver.java"/>
-			<item value="C:\Users\Hp\eclipse-workspace\jdbc_database_1\src\main\java\jdbc_database_1\PersonDriver.java"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -40,23 +40,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.ty.mcdonaldsprojectjsp"/>
-			<item value="com.ty.studentjsp"/>
-			<item value="com.ty.jspproject2"/>
-			<item value="com.ty.jspproject1"/>
-			<item value="com.ty.Shop"/>
-			<item value="com.ty.Studentprojectservelet"/>
+			<item value="com.ty.springMVCfoodapp"/>
 		</list>
 		<list key="groupId">
 			<item value="com.ty"/>
 		</list>
 		<list key="artifactId">
-			<item value="mcdonaldsprojectjsp"/>
-			<item value="studentjsp"/>
-			<item value="jspproject2"/>
-			<item value="jspproject1"/>
-			<item value="Shop"/>
-			<item value="Studentprojectservelet"/>
+			<item value="springMVCfoodapp"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -90,12 +80,34 @@
 		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
-			<item value="C:\Users\Hp\eclipse-workspace\7-jdbc\src\main\java"/>
+			<item value="C:\Users\Hp\Downloads\bymongodb"/>
+			<item value="C:\Users\Hp\Downloads\mongo"/>
+			<item value="C:\Users\Hp\Downloads\SpringJWT"/>
+			<item value="C:\Users\Hp\Desktop\New folder (3)\Fabrico"/>
+			<item value="C:\Users\Hp\eclipse-workspace\spring_mvc_foodapp"/>
+			<item value="H:\spring_mvc_foodapp"/>
+			<item value="C:\Users\Hp\Desktop\teee\spring_mvc_foodapp"/>
+			<item value="C:\Users\Hp\Downloads\ImageInsertion"/>
+			<item value="C:\Users\Hp\Downloads\UserEmailVerificationByOtp"/>
+			<item value="C:\Users\Hp\Desktop\New folder (2)\springboot_hotel_project121"/>
+			<item value="C:\Users\Hp\Downloads\springboot_hotel_project"/>
+			<item value="C:\Users\Hp\Downloads\springboot_hospital1"/>
+			<item value="C:\Users\Hp\Downloads\springboot_hospital"/>
+			<item value="C:\Users\Hp\Downloads\springboot5"/>
+			<item value="C:\Users\Hp\Downloads\spring_school_project"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

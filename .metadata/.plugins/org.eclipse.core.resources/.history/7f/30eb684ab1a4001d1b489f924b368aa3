@@ -1,7 +1,0 @@
-
-public class Fifth {
-	public static void main(String[] args) {
-		String string1="gani";
-		String string2="mani";
-	}
-}

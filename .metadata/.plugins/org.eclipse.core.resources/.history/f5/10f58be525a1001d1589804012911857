@@ -1,8 +1,0 @@
-package jspproject2.controller;
-
-import javax.servlet.annotation.WebServlet;
-import javax.servlet.http.HttpServlet;
-@WebServlet("/delete")
-public class DeleteEmployee extends HttpServlet{
-	
-}
